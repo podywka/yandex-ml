@@ -16,6 +16,9 @@ torch = "^2.8.0"
 matplotlib = "^3.10.6"
 ipython = "^9.5.0"
 torchvision = "^0.23.0"
+optuna = "^4.5.0"
+tqdm = "^4.67.1"
+rich = "^14.1.0"
 
 
 [build-system]
