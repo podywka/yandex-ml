@@ -19,6 +19,8 @@ torchvision = "^0.23.0"
 optuna = "^4.5.0"
 tqdm = "^4.67.1"
 rich = "^14.1.0"
+gymnasium = {extras = ["toy-text"], version = "^1.2.0"}
+ipympl = "^0.9.7"
 
 
 [build-system]
